@@ -1,0 +1,16 @@
+---
+object: set
+id: 9403aa68-56ab-48ce-86c1-10a53c54a172
+code: pm13
+name: Magic 2013 Promos
+uri: https://api.scryfall.com/sets/9403aa68-56ab-48ce-86c1-10a53c54a172
+scryfall_uri: https://scryfall.com/sets/pm13
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apm13&unique=prints
+released_at: '2012-07-12'
+set_type: promo
+card_count: 5
+parent_set_code: m13
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/m13.svg?1694404800
